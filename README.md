@@ -2,7 +2,7 @@
 <table>
 <tr>
 <td>
-The goal of this assignment is to do seam carving of images and extends to object carving. Seam carving is a method of re-sizing an image and resizing of an image will be implemented on the basis of method described in the paper by Avidan and Shamir.
+The goal of this implementation is to do seam carving of images and extends to object carving. Seam carving is a method of re-sizing an image and resizing of an image will be implemented on the basis of method described in the paper by Avidan and Shamir.
 </td>
 </tr>
 </table>
@@ -14,7 +14,7 @@ We have implemented all the required functions and asked user to select one of t
 - Option 2 for Object removal
 - Option 3 for seam carving using Guassian Pyramid.
 
->>python seam_carving.py image_name
+>> python seam_carving.py image_name
 
 Now enter 1 for normal seam carving, 2 for object removal and 3 for seam seam carving using Gaussian Pyramid.
 
